@@ -9,7 +9,7 @@
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yudaadipratama_/)
-[![Your GitHub Sponsors](https://img.shields.io/github/sponsors/YudaAdiPratama?label=Sponsor&logo=github&style=for-the-badge)](https://github.com/sponsors/yourusername)
+[![Your GitHub Sponsors](https://img.shields.io/github/sponsors/YudaAdiPratama?label=Sponsor&logo=github&style=for-the-badge)](https://github.com/sponsors/YudaAdiPratama)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YudaAdiPratama&count_private=false&show_icons=true&layout=compact&theme=tokyonight&include_all_commits=true)
 
